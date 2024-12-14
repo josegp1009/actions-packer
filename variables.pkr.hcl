@@ -12,7 +12,7 @@ variable "project_env" {
 
 variable "ami" {
   type = string
-  default = "ami-013168dc3850ef002"
+  default = "ami-0614680123427b75e"
 }
 
 variable "instance_type" {
